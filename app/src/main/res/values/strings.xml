@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PigeonIME</string>
+    <string name="pigeonIME_on">Pigeon IME [Active]</string>
+    <string name="keyboard_name">Pigeon IME</string>
+</resources>
